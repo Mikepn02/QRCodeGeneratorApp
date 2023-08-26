@@ -1,6 +1,6 @@
 # QRCode Generator Java
 
-![QRCode Generator Java](/path/to/your/qrcode.png)
+![QRCode Generator Java](C:\Users\Mike_pn\Desktop\y1program\javascript\qrcode.png)
 
 This is a Java application that generates QR codes from input data.
 
