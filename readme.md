@@ -1,6 +1,6 @@
 # QRCode Generator Java
 
-![QRCode Generator Java](C:\Users\Mike_pn\Desktop\y1program\javascript\qrcode.png)
+![QRCode Generator Java](https://static.beaconstac.com/assets/img/static-vs-dynamic-qr-code-images/new-qr-reload-new.png)
 
 This is a Java application that generates QR codes from input data.
 
