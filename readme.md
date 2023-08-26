@@ -17,22 +17,23 @@ This is a Java application that generates QR codes from input data.
    ```bash
    git clone https://github.com/yourusername/QRCodeGenerator.git
 
-
 2. Navigate to project directory:
+  
+   ```bash```
    cd  RCodeGenerator
-
 3. Build the project:
+   ```bash```
    javac QRCodeGenerator.java
 
-
 4. Run applocation:
+   ```bash```
     java QRCodeGenerator
 
 
 
 5. Follow the instructions to generate QR codes.
 
-Usage
+## Usage
 Enter the data you want to encode into a QR code.
 Choose QR code dimensions (width and height).
 The generated QR code will be displayed in the console.
@@ -48,6 +49,3 @@ License
 This project is licensed under the MIT License.
 
 Feel free to customize this README according to your project's specifics. Include details about installation, usage, features, and any other information you think would be helpful to users and potential contributors.
-
-
-Just like in the previous example, replace `/path/to/your/qrcode.png` with the actual path to your project logo or image. Adjust the instructions, build steps, and other information based on your Java project's setup and requirements.
